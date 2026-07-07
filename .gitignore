@@ -6,6 +6,7 @@
 # Node artifact files
 node_modules/
 dist/
+faces_dataset
 
 # Compiled Java class files
 *.class
@@ -22,6 +23,9 @@ dist/
 # Maven
 target/
 dist/
+
+# vscode Ide
+.vscode
 
 # JetBrains IDE
 .idea/
